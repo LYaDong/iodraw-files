@@ -35,7 +35,7 @@
           <mxGeometry x="490" y="170" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgnpucZNY63xgxeHPnbf-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="180" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SgnpucZNY63xgxeHPnbf-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="590" width="30" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="250" y="445" width="390" height="10" as="geometry" />
         </mxCell>
         <mxCell id="SgnpucZNY63xgxeHPnbf-16" value="墙、门" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="435" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="428" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
